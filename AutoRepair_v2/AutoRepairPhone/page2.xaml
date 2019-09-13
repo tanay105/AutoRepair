@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="AutoRepairPhone.page2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AutoRepairPhone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:m="using:Bing.Maps"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Maps:MapControl x:Name="MyMap" MapServiceToken="WzC8t_4VSXw76YQjYvugLQ" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Height="442" Width="400">
+
+        </Maps:MapControl>
+        <ListBox x:Name="GeocodeResults" HorizontalAlignment="Left" Height="188" Margin="0,452,0,0" VerticalAlignment="Top" Width="400" SelectionChanged="GeocodeResults_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                                <Run Text="{Binding Name}" />
+                                <Run Text=", "/>
+                                <Run Text="{Binding AddressLine}" />
+                                <Run Text=", "/>
+                                <Run Text="{Binding StoreType}"/>
+
+                    </TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+
+        </ListBox>
+
+        <HyperlinkButton x:Name="back" Content="Start NewJourney" Foreground="Red" Margin="0,422,0,188" RenderTransformOrigin="0.487,0.238" FontSize="14" Width="119" Click="clickback" Visibility="Visible" Height="30"/>
+        <HyperlinkButton x:Name="Show" Content="Show Shops" Foreground="Red" Margin="215,421,66,185" RenderTransformOrigin="0.487,0.238" FontSize="14" Width="119" Click="showpin" Visibility="Visible" Height="34" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <HyperlinkButton x:Name="routeS" Content="Route Shops" Foreground="Red" Margin="119,421,162,185" RenderTransformOrigin="0.487,0.238" FontSize="14" Width="119" Click="routeshops" Visibility="Visible" Height="34" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <HyperlinkButton x:Name="forward" Content="Offline Help" Foreground="Red" Margin="323,422,0,184" RenderTransformOrigin="0.487,0.238" FontSize="14" HorizontalAlignment="Stretch" HorizontalContentAlignment="Right" Height="34" Click="forwardclick"/>
+
+    </Grid>
+</Page>

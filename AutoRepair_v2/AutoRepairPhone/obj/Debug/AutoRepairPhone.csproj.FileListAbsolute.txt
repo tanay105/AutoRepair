@@ -1,0 +1,92 @@
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\App.g.i.cs
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\App.g.cs
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\MainPage.g.i.cs
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\MainPage.g.cs
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\page2.g.i.cs
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\page2.g.cs
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\App.xaml
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\App.xbf
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\MainPage.xaml
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\page2.xaml
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\MainPage.xbf
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\page2.xbf
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\bin\Debug\App.xbf
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\bin\Debug\MainPage.xbf
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\bin\Debug\page2.xbf
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\bin\Debug\AutoRepairPhone.xr.xml
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\bin\Debug\AutoRepairPhone.exe
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\bin\Debug\AutoRepairPhone.pdb
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\bin\Debug\resources.pri
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\bin\Debug\AppxManifest.xml
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\bin\Debug\AutoRepairPhone.build.appxrecipe
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\AutoRepairPhone.exe
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\AutoRepairPhone.pdb
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\priconfig.xml
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\layout.resfiles
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\resources.resfiles
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\pri.resfiles
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\qualifiers.txt
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\ProjectArchitectures.txt
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\AutoRepairPhone.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\bin\Debug\Newtonsoft.Json.dll
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\bin\Debug\Newtonsoft.Json.xml
+c:\users\sam\documents\visual studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\AutoRepairPhone.csproj.GenerateResource.Cache
+C:\Users\SAM\Documents\Visual Studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\bin\Debug\page3.xbf
+C:\Users\SAM\Documents\Visual Studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\page3.g.i.cs
+C:\Users\SAM\Documents\Visual Studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\page3.g.cs
+C:\Users\SAM\Documents\Visual Studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\page3.xaml
+C:\Users\SAM\Documents\Visual Studio 2013\Projects\AutoRepairPhone\AutoRepairPhone\obj\Debug\page3.xbf
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\bin\Debug\App.xbf
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\bin\Debug\MainPage.xbf
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\bin\Debug\page2.xbf
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\bin\Debug\page3.xbf
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\bin\Debug\AutoRepairPhone.xr.xml
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\bin\Debug\AutoRepairPhone.exe
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\bin\Debug\AutoRepairPhone.pdb
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\bin\Debug\resources.pri
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\bin\Debug\AppxManifest.xml
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\bin\Debug\AutoRepairPhone.build.appxrecipe
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\bin\Debug\Newtonsoft.Json.dll
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\bin\Debug\Newtonsoft.Json.xml
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\AutoRepairPhone.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\App.g.i.cs
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\App.g.cs
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\MainPage.g.i.cs
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\MainPage.g.cs
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\page2.g.i.cs
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\page2.g.cs
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\page3.g.i.cs
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\page3.g.cs
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\XamlTypeInfo.g.cs
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\App.xaml
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\MainPage.xaml
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\page2.xaml
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\page3.xaml
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\App.xbf
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\MainPage.xbf
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\page2.xbf
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\page3.xbf
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\XamlSaveStateFile.xml
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\AutoRepairPhone.exe
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\AutoRepairPhone.pdb
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\AutoRepairPhone.csproj.GenerateResource.Cache
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\priconfig.xml
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\priconfig.xml.intermediate
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\layout.resfiles
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\layout.resfiles.intermediate
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\resources.resfiles
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\resources.resfiles.intermediate
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\pri.resfiles
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\pri.resfiles.intermediate
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\qualifiers.txt
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\qualifiers.txt.intermediate
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Documents\Projects\AutoRepair\New folder\AutoRepairPhone\obj\Debug\ProjectArchitectures.txt
